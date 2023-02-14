@@ -57,3 +57,19 @@ const BASE_URL = 'http://localhost:3000/books/';
 //     .then(console.log)
 //     .catch(console.log);
 // }
+
+// const book = { id: 5, title: 'New c+ books', rating: 1 };
+
+// function updateBook(newData) {
+//   const options = {
+//     method: 'PATCH',
+//     headers: { 'Content-Type': 'application/json' },
+//     body: JSON.stringify(newData),
+//   };
+
+//   fetch(`${BASE_URL}${newData.id}`, options)
+//     .then(resp => resp.json())
+//     .then(console.log)
+//     .catch(console.log);
+// }
+// updateBook(book);

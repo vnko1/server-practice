@@ -30,12 +30,12 @@
     },
     {
       "id": 5,
-      "title": "Два солнца",
+      "title": "New c+ books",
       "author": "Леонид Кудрявцев",
       "genres": [
         "фантастика"
       ],
-      "rating": 6.36
+      "rating": 1
     },
     {
       "id": 6,
