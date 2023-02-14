@@ -5,7 +5,8 @@
   "homepage": "https://vnko1.github.io/parcel-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project/"
+    "build": "parcel build src/*.html --public-url /parcel-project/",
+    "server": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
+    "json-server": "^0.17.1",
     "parcel": "^2.6.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
