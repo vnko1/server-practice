@@ -1,60 +1,158 @@
 {
   "books": [
     {
-      "id": 1,
-      "title": "Последнее королевство",
-      "author": "Бернард Корнуэлл",
-      "genres": ["приключения"],
-      "rating": 8.38
-    },
-    {
       "id": 2,
-      "title": "На берегу спокойных вод",
+      "title": "New JS books",
       "author": "Роберт Шекли",
-      "genres": ["фантастика"],
-      "rating": 8.51
+      "genres": [
+        "фантастика"
+      ],
+      "rating": 1000
     },
     {
       "id": 3,
-      "title": "Пожиратель призраков",
+      "title": "New JS books",
       "author": "Говард Лавкрафт",
-      "genres": ["ужасы", "мистика"],
-      "rating": 7.94
+      "genres": [
+        "ужасы",
+        "мистика"
+      ],
+      "rating": 1000
     },
     {
       "id": 4,
       "title": "Разоблаченный проходимец",
       "author": "Франц Кафка",
-      "genres": ["классика"],
+      "genres": [
+        "классика"
+      ],
       "rating": 6.62
     },
     {
       "id": 5,
       "title": "Два солнца",
       "author": "Леонид Кудрявцев",
-      "genres": ["фантастика"],
+      "genres": [
+        "фантастика"
+      ],
       "rating": 6.36
     },
     {
       "id": 6,
       "title": "Сон смешного человека",
       "author": "Федор Достоевский",
-      "genres": ["классика"],
+      "genres": [
+        "классика"
+      ],
       "rating": 7.75
     },
     {
       "title": "Тестовая книга",
       "author": "Я",
-      "genres": ["JS"],
+      "genres": [
+        "JS"
+      ],
       "rating": 10,
       "id": 7
     },
     {
       "title": "Тестовая книга",
       "author": "Я",
-      "genres": ["JS"],
+      "genres": [
+        "JS"
+      ],
       "rating": 10,
       "id": 8
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 9
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 12
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 13
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 14
+    },
+    {
+      "author": "Me",
+      "title": "Тестовая книга по HTML",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 15
+    },
+    {
+      "author": "Me",
+      "title": "Тестовая книга по HTML",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 16
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 17
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 18
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 19
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Me",
+      "genres": [
+        "JS"
+      ],
+      "rating": 100,
+      "id": 20
     }
   ]
 }
